@@ -29,7 +29,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/34959</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/34959</dc:source>
 		<dc:source>https://books.google.com/books?id=AI8iAAAAMAAJ</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
