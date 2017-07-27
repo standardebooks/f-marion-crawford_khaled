@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/f-marion-crawford/khaled-a-tale-of-arabia</dc:identifier>
 		<dc:date>2017-02-28T20:25:26Z</dc:date>
-		<meta property="dcterms:modified">2017-07-22T01:00:02Z</meta>
-		<meta property="se:revision-number">10</meta>
+		<meta property="dcterms:modified">2017-07-27T20:17:57Z</meta>
+		<meta property="se:revision-number">11</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,7 +32,7 @@
 		<dc:description id="description">A powerful genie is condemned to live the life of a man, unless he can find true love.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Khaled is a hard-working and faithful genie who, in his zeal, goes a little too far and kills a faithless man.  This puts him under scrutiny from the powers above, who curse him to live as a human.  Since genies have no souls, he will vanish from existence when he dies; but, if he can find true love, he’ll be granted a soul and thus be allowed into heaven.&lt;/p&gt;
+			&lt;p&gt;Khaled is a hard-working and faithful genie who, in his zeal, goes a little too far and kills a faithless man. This puts him under scrutiny from the powers above, who curse him to live as a human. Since genies have no souls, he will vanish from existence when he dies; but, if he can find true love, he’ll be granted a soul and thus be allowed into heaven.&lt;/p&gt;
 			&lt;p&gt;Written in the style of the “oriental romances” popular in those days, &lt;i&gt;Khaled&lt;/i&gt; was F. Marion Crawford’s favorite novel out of all of the ones he wrote in his successful career.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
