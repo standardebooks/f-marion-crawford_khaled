@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Khaled: A Tale of Arabia</dc:title>
 		<meta property="file-as" refines="#title">Khaled: A Tale of Arabia</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,15 +37,14 @@
 		<meta property="file-as" refines="#fulltitle">Khaled: A Tale of Arabia</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Arabian Peninsula -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/34959</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">A powerful genie is condemned to live the life of a man, unless he can find true love.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Khaled is a hard-working and faithful genie who, in his zeal, goes a little too far and kills a faithless man. This puts him under scrutiny from the powers above, who curse him to live as a human. Since genies have no souls, he will vanish from existence when he dies; but, if he can find true love, he’ll be granted a soul and thus be allowed into heaven.&lt;/p&gt;
 			&lt;p&gt;Written in the style of the “oriental romances” popular in those days, &lt;i&gt;Khaled&lt;/i&gt; was F. Marion Crawford’s favorite novel out of all of the ones he wrote in his successful career.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34959</dc:source>
 		<dc:source>https://books.google.com/books?id=AI8iAAAAMAAJ</dc:source>
