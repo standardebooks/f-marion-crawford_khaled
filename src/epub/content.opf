@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/34959</dc:source>
 		<dc:source>https://books.google.com/books?id=AI8iAAAAMAAJ</dc:source>
 		<meta property="se:word-count">61771</meta>
-		<meta property="se:reading-ease.flesch">76.66</meta>
+		<meta property="se:reading-ease.flesch">76.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Khaled:_A_Tale_of_Arabia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/f-marion-crawford_khaled</meta>
 		<dc:creator id="author">F. Marion Crawford</dc:creator>
